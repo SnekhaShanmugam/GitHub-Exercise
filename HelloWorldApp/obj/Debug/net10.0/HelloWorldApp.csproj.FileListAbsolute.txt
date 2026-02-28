@@ -1,0 +1,15 @@
+/workspaces/GitHub-Exercise/HelloWorldApp/bin/Debug/net10.0/HelloWorldApp
+/workspaces/GitHub-Exercise/HelloWorldApp/bin/Debug/net10.0/HelloWorldApp.deps.json
+/workspaces/GitHub-Exercise/HelloWorldApp/bin/Debug/net10.0/HelloWorldApp.runtimeconfig.json
+/workspaces/GitHub-Exercise/HelloWorldApp/bin/Debug/net10.0/HelloWorldApp.dll
+/workspaces/GitHub-Exercise/HelloWorldApp/bin/Debug/net10.0/HelloWorldApp.pdb
+/workspaces/GitHub-Exercise/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/GitHub-Exercise/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.AssemblyInfoInputs.cache
+/workspaces/GitHub-Exercise/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.AssemblyInfo.cs
+/workspaces/GitHub-Exercise/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/workspaces/GitHub-Exercise/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.sourcelink.json
+/workspaces/GitHub-Exercise/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.dll
+/workspaces/GitHub-Exercise/HelloWorldApp/obj/Debug/net10.0/refint/HelloWorldApp.dll
+/workspaces/GitHub-Exercise/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.pdb
+/workspaces/GitHub-Exercise/HelloWorldApp/obj/Debug/net10.0/HelloWorldApp.genruntimeconfig.cache
+/workspaces/GitHub-Exercise/HelloWorldApp/obj/Debug/net10.0/ref/HelloWorldApp.dll
